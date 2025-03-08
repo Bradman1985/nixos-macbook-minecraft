@@ -1,7 +1,3 @@
-​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​# Ignore hardware config (generated per-machine)
-hardware-configuration.nix
-
-# Ignore Nix build artifacts
-result
-*.nix~
-​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
+secrets.nix
+flake.lock
+*.zip
